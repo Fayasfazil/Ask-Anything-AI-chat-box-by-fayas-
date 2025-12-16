@@ -1,0 +1,5 @@
+{
+  "name": "Ask Anything",
+  "description": "A web-based content generator that takes a user's text prompt and automatically generates written content such as articles, summaries, or social media captions using a powerful AI API.",
+  "requestFramePermissions": []
+}
